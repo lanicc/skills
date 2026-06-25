@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Branch Management"
+  short_description: "Standardize branch names and branch notes"
+  default_prompt: "Use $git-branch-management to create and document a Git branch for my change."
