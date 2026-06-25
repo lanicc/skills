@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java Interface Access Docs"
+  short_description: "Generate HTTP and Dubbo integration docs"
+  default_prompt: "Use $java-interface-access-docs to document the HTTP and Dubbo interfaces in this Java project."
