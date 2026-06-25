@@ -10,6 +10,7 @@
 | `java-interface-access-docs` | 基于 Java/Spring HTTP 接口和 Apache Dubbo 接口源码生成接入文档。 | 文档化 Controller 接口、DTO、响应包装、Dubbo facade、消费方示例，或创建接口专用 skill。 |
 | `sls-code-log-investigator` | 从代码中提取日志检索线索，并在阿里云 SLS 中追踪问题链路。 | 通过日志关键词、TraceID、业务 ID、部署版本或异常链路排查测试/生产问题。 |
 
+
 ## 目录结构
 
 ```text
