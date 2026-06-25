@@ -1,4 +1,0 @@
-interface:
-  display_name: "SLS Code Log Investigator"
-  short_description: "Trace issues from code logs to Aliyun SLS"
-  default_prompt: "Use $sls-code-log-investigator to find project log keywords, query Aliyun SLS, trace the request chain, and diagnose the issue."
